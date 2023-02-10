@@ -1,2 +1,3 @@
-#!/bin/sh
+#!/bin/bash
+# Showing current director
 pwd
